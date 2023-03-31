@@ -1,6 +1,6 @@
 Name:		texlive-jobname-suffix
 Version:	64797
-Release:	1
+Release:	2
 Summary:	Compile differently based on the filename
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jobname-suffix
