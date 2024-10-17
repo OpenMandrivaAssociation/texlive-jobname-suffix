@@ -3,7 +3,7 @@ Version:	64797
 Release:	2
 Summary:	Compile differently based on the filename
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jobname-suffix
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/jobname-suffix
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jobname-suffix.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jobname-suffix.doc.r%{version}.tar.xz
